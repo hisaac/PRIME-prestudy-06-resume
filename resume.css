@@ -56,9 +56,20 @@ a {
   font-size: 3em;
 }
 
-.button {
-
+#button{
+	background-color: #FF2399;
+	width: 300px;
+	margin: auto;
+	border-radius: 5px;
+	display: block;
 }
-.content {
-	
+
+#button p{
+	text-align: center;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+#content {
+	display: none;
 }
